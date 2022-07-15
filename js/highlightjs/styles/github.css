@@ -1,99 +1,165 @@
-/*
+@import url('https://fonts.googleapis.com/css2?family=Times New Roman&display=swap');
 
-github.com style (c) Vasily Polovnyov <vast@whiteants.net>
-
-*/
-
-.hljs {
-  display: block;
-  overflow-x: auto;
-  padding: 0.5em;
-  color: #333;
-  background: #f8f8f8;
+.cmty-post-edited .cmty-post-edit-info{
+display: none;
+}
+#post-new-entry-p img{ /* pencil image next to post new entry */
+display: none;
+}
+.cmty-poll-display{ /* poll colors */
+background-color: #FDEFEF;
+border-style: 1px;
+border-color: #CDBBA7;
+transition: 1s;
 }
 
-.hljs-comment,
-.hljs-quote {
-  color: #998;
-  font-style: italic;
+.cmty-poll-display:hover{
+border-radius: 10px;
+}
+ 
+a.cmty-hide-heading, span.cmty-hide-heading{/*hide tags*/
+background-color: #C6B4CE!important;
+color: purple;
+}
+a.cmty-hide-heading, span.cmty-hide-heading:hover{
+background-color: #C6B4CE!important;
+color: purple;
+}
+.aops-icon.blog-delete-shout{
+color: #B9CCBC;
+}
+a:link{
+color: #B9CCBC;
+}
+a:visited {
+color: #B9CCBC;
+}
+.cmty-poll-result-bar{ /* result bars */
+background-color: #FDEFEF;
+transition: 0.5s;
 }
 
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-subst {
-  color: #333;
-  font-weight: bold;
+.cmty-poll-result-bar:hover{
+border-radius: 10px;
+}
+ 
+.cmty-poll-display-top{ /* thing on top of polls */
+visibility: hidden;
+}
+ 
+.cmty-poll-question{ /* poll question */
+text-align: center;
+font-weight: bold;
+font-size: 24px;
+font-family: Gaegu;
+color: #EFB7B7;
+text-transform: lowercase;
+}
+body{
+    background-color:#FDEFEF;
+    font-family: Gaegu;
+}
+div#wrapper{
+    width:95%;
+    border:none;
+    padding: 0px;
+    margin:none;
+}
+div#header{
+    background-color: #FDEFEF;
+    border:none;
+    margin:none;
+}
+div#header h1{
+    color:#827081;
+    font-size:30px;
+    font-family: Gaegu;
+}
+div.entry h2 img, div.comment h2 img { /*page image thingy next to the second header */
+display: none;
+}
+div.entry h2 {
+padding-top: 2px;
+background-repeat: no-repeat;
+padding-left:30px;
+}
+div#content{
+    border-style:solid;
+    border-width:5px;
+    border-color: #CDBBA7;
+    padding:none;
+    background-color: #FDEFEF;
+}
+div.entrywrap{
+    background-color:#FDEFEF;
+    border:none;
+}
+div.quotetitle{
+    background-color: #FDEFEF;
+    border:1px solid black;
+    border-bottom:none;
+    padding:3px;
+}
+div.quotecontent{
+    padding:3px;
+    background-color:#FDEFEF;
+    border:1px solid black;
+    border-top:none;
+}
+.cfooter .author img {
+display: none;
+}
+.cfooter .author{ 
+background-repeat: no-repeat;
+padding-left: 26px;
+padding-top: 4px;
+padding-bottom: 1.5px;
+}
+.aops-icon.blog-delete-shout{
+color: #EFB7B7;
+}
+div#side{
+    width:270px;
+    padding:10px;
+    background-color:#FDEFEF;
+}
+div#main{
+    width: calc(100% - 300px);
+    padding:10px;
+    background-color:#FDEFEF;
+}
+div#navigation_box{
+    background-color: #FDEFEF;
+    margin:0px;
+    border-bottom:solid black 1px;
+}
+#navigation_box a{
+    color:#000;
+    font-family: Gaegu;
+}
+/** Not Visited Links Color **/
+a:link {
+color: #aea3b0;
+}
+/** Visited Links Color **/
+a:visited {
+color: #aea3b0;
+}
+.entrywrap a:hover{
+    color: #F4DFD0;
+}
+.comment a:hover{
+    color: #F4DFD0;
+}
+.inputbox {
+    width:95%;
 }
 
-.hljs-number,
-.hljs-literal,
-.hljs-variable,
-.hljs-template-variable,
-.hljs-tag .hljs-attr {
-  color: #008080;
+a.cmty-hide-heading, span.cmty-hide-heading{/*hide tags*/
+background-color: #C6B4CE!important;
+color: purple;
 }
-
-.hljs-string,
-.hljs-doctag {
-  color: #d14;
-}
-
-.hljs-title,
-.hljs-section,
-.hljs-selector-id {
-  color: #900;
-  font-weight: bold;
-}
-
-.hljs-subst {
-  font-weight: normal;
-}
-
-.hljs-type,
-.hljs-class .hljs-title {
-  color: #458;
-  font-weight: bold;
-}
-
-.hljs-tag,
-.hljs-name,
-.hljs-attribute {
-  color: #000080;
-  font-weight: normal;
-}
-
-.hljs-regexp,
-.hljs-link {
-  color: #009926;
-}
-
-.hljs-symbol,
-.hljs-bullet {
-  color: #990073;
-}
-
-.hljs-built_in,
-.hljs-builtin-name {
-  color: #0086b3;
-}
-
-.hljs-meta {
-  color: #999;
-  font-weight: bold;
-}
-
-.hljs-deletion {
-  background: #fdd;
-}
-
-.hljs-addition {
-  background: #dfd;
-}
-
-.hljs-emphasis {
-  font-style: italic;
-}
-
-.hljs-strong {
-  font-weight: bold;
+a.cmty-hide-heading, span.cmty-hide-heading:hover{
+background-color: #C6B4CE!important;
+color: purple;
 }
