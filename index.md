@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Welcome to my Blog 👋
 
-Maybe say a some things about yourself.
+I'm a rising freshman from Texas.
 
-Or maybe what you plan to blog about.
+Created this to serve sort of as a memory log during my highschool years.
