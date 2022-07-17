@@ -43,4 +43,23 @@ The teacher doesn't teach at all, but the grading is easy. I don't know any phys
 
 This is the Decathlon Course. Honestly, I was thinking of dropping this course mid way through summer (not possible). My dad was really happy hearing I'm taking it. I really badly wanted to learn Sign Language and take that course instead of this. It's okay, I will take it next year, hopefully I will have space in my schedule. I am like 99% sure that I won't continue this, but it is a good experience, I might as well make the most of it this year.
 
-8/16/22 - 4:13pm.
+#### Things to complete before school starts
+- [ ] Biology → (Campbell) Finish Unit 3 & 4: Total 13 Chapters
+- [ ] Chemistry → JPH Chem, Keep up with classes & hw as well as Atkins, Practice Problems (Barron's): Chapter 4, 5, 6, 7, 8 
+- [ ] Physics → AlphaStar Camp, Giancoli corresponding chapters & practice problems
+- [ ] AMC 10 → Advanced Booster Course (Spend 1 hour a day)
+- [ ] Precalculus → 20 days, 1 per day + problems from textbook
+- [ ] Intermediate C&P → 18 days, 1 per day + problems from textbook
+- [ ] USACO Bronze → Bronze Section in USACO Guide, 2011-2012 problems
+- [ ] PSAT/SAT → Grind through books / practice
+- [ ] Badminton → probably only going for another week, and after that i'll continue once school starts
+- [ ] Violin → 30 min daily (i really got to start practicing), shifting & book 3 
+- [ ] Decathlon → very behind with this...just finish the readings for that are nescessary
+- [ ] Health → Summer Course, already completed, just have to take the final exam...
+- [ ] Summer Research Project → working on a project, get most of it done? depends when i can meet w my mentor 
+- [ ] NHD → I already have come up with a possible topic, I'll most likely move forward with it, get my research and outline of exhibit done
+- [ ] Personal → Probably cut down the amount of sugar intake 😅 & go for runs almost evey day, i really do enjoy running, read 1-2 new books
+
+This is actually a lot to do sounds more like a complete summer plan 😰 I guess I really have alot to do, better stop wasting my time.
+
+8/16/22 
