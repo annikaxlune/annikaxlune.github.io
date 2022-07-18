@@ -46,7 +46,7 @@ Yesterday (7/17/22 - Sunday) was probably one of my best days in summer. I didn'
 - [X] AMC 10 Practice (Recursion) 
 - [X] Go out for a run!
 
-USACO is so hard, I attempted 2015 #1 (bronze ofc)and 😞 Been really avoiding Decathlon 😥
+USACO is so hard, I attempted 2015 #1 (bronze ofc) and 😞 Been really avoiding Decathlon 😥
 
 #### 7/18/22
 
