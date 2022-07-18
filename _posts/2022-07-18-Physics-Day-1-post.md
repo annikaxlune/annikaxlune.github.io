@@ -63,7 +63,5 @@ Things left for today:
 #### Upcoming
 - [ ] Health Final 🤡
 
-I am not confident for this as all even though we get to use our notes.
-
-
+I am not confident for this at all even though we get to use our notes.
 
