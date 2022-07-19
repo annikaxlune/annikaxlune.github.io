@@ -1,5 +1,4 @@
-Welcome to my Blog!
+Welcome to my Highschool Blog (Class of 2026):
 
-I'm a freshman from Texas.
+Created to serve as a collection of my memories from highschool.
 
-Created this to serve as a memory log during my highschool years.
