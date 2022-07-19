@@ -53,12 +53,12 @@ USACO is so hard, I attempted 2015 #1 (bronze ofc) and 😞 Been really avoiding
 I woke up and I spent the whole morning (till like 1 pm.) doing nothing and just being stressed about highschool and freshman year. Very crazy, wasted lotta time. After lunch, I just completed my research part for YLP. Then, from 3:30 - 6:45 pm (with a 15 minute break) started the first day of the Physics Camp (AlphaStar F=ma Advanced AB). We went over basic algebra and trigonometry required for this algebra-based physics course as well as starting with Chapter 3 - One Dimensional Kinematics. Physics is tough.
 
 Things left for today:
-- [ ] Chapter 15 Campbell
-- [ ] Start Chapter 5 Chem (Barrons)
+- [X] Chapter 15 Campbell [Finished] 
+- [X] Start Chapter 5 Chem (Barrons)[Left off at 5.4] 
 - [ ] AMC 10 Practice
-- [ ] Physics C1 & C2 HW Problems
+- [ ] Physics C1 & C2 HW Problems 
 - [ ] USACO Guide Section: Rectangles 
-- [ ] Violin 
+- [ ] Violin - too late in night coudn't do
 
 #### Upcoming
 - [ ] Health Final 🤡
