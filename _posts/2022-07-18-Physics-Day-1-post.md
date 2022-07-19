@@ -56,7 +56,7 @@ Things left for today:
 - [X] Chapter 15 Campbell [Finished] 
 - [X] Start Chapter 5 Chem (Barrons)[Left off at 5.4] 
 - [ ] AMC 10 Practice
-- [ ] Physics C1 & C2 HW Problems 
+- [X] Physics C1 & C2 HW Problems [Completed, should have done C3, but I need more focus and energy]
 - [ ] USACO Guide Section: Rectangles 
 - [ ] Violin - too late in night coudn't do
 
@@ -65,3 +65,4 @@ Things left for today:
 
 I am not confident for this at all even though we get to use our notes.
 
+Slept at 11:00 pm exact. 
