@@ -20,6 +20,7 @@ Divided into 5 Sections:
 * General
 - [ ] Never slack/fall behind in classes (30%)
 - [ ] Pay attention in class, try to finish hw quickly (40%)
+- [ ] Really good/solid stu-dying strategies 
 - [ ] Have fun (60%)
 - [ ] Not "waste" time
 * College
