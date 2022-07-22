@@ -21,6 +21,7 @@ Divided into 5 Sections:
 - [ ] Never slack/fall behind in classes (30%)
 - [ ] Pay attention in class, try to finish hw quickly (40%)
 - [ ] Have fun (60%)
+- [ ] Not "waste" time
 * College
 - [ ] Get into MIT 💌 (0.1%)
 - [ ] Get into Stanford (0.1%)
@@ -127,3 +128,6 @@ Divided into 5 Sections:
 - [ ] Go for a run 
 - [ ] Be on track team
 - [ ] This Blog ! (make a post daily - weekly)
+- [ ] write a letter to my future self
+
+Want these 4 years to be fun, eventful & have no regrets - as well as a time to try new things + grow as a person.
