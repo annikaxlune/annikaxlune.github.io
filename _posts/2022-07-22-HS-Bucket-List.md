@@ -129,5 +129,6 @@ Divided into 5 Sections:
 - [ ] Be on track team
 - [ ] This Blog ! (make a post daily - weekly)
 - [ ] write a letter to my future self
+- [ ] Learn how to cook 17
 
 Want these 4 years to be fun, eventful & have no regrets - as well as a time to try new things + grow as a person.
