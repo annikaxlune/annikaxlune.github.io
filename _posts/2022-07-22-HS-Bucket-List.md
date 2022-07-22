@@ -133,5 +133,7 @@ Divided into 5 Sections:
 - [ ] Learn how to cook 17
 
 Want these 4 years to be fun, eventful & have no regrets - as well as a time to try new things + grow as a person.
+
 https://www.youtube.com/watch?v=TQMbvJNRpLE
+
 "take real ambitious projects, break them down to their simplest form and then make marginal improvements along the way to improve my odds of achieving them."
