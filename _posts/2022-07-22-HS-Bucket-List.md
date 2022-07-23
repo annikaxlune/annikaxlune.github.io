@@ -132,7 +132,7 @@ Divided into 5 Sections:
 - [ ] write a letter to my future self
 - [ ] Learn how to cook 17
 
-Want these 4 years to be fun, eventful & have no regrets - as well as a time to try new things + grow as a person.
+hopefully, these 4 years ~ fun, eventful, try new things, grow as a person & no regrets.
 
 https://www.youtube.com/watch?v=TQMbvJNRpLE
 
