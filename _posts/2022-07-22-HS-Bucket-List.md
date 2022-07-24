@@ -105,6 +105,8 @@ Divided into 5 Sections:
 - [ ] Attend Prom
 - [ ] Skip classes 18
 - [ ] Have fun
+- [ ] Sit on top of the vending machine
+- [ ] Play hide and seek
 
 #### Other
 - [ ] Learn how to drive on my 15th birthday 🚗
