@@ -19,7 +19,7 @@ at other people a year older than me or my age - and wow. They are so accomplish
 
 I have a good feeling for these next 4 years - going to enjoy them and work hard. I am very very very behind with decathlon - basically haven't touched it at all.
 Going to have to work on that. Also, trying to really study properly - quality work. Super excited for these next 4 years...(will see if I really am this excited during 9th grade 😰).
-Recently, I have had this idea to create vlogs 😂 pick up on that highschoool youtuber idea of my bucket list...it's a good way to create memories, I mean, I deleted my instagram account where I'd usually post on my stories.
-I also want to and I am going to start learning how to crochet. Hopefully, I follow through with these :)
+Recently, I have had this idea to create highschoool vlogs just as a memory - idea of my bucket list, I mean, I deleted my instagram account where I'd usually post on my stories.
+I also want to start learning how to crochet. Been binging a lot of random kdrama youtube videos.
 
 
