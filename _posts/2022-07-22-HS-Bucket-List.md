@@ -24,11 +24,10 @@ Divided into 5 Sections:
 - [ ] Have fun (60%)
 - [ ] Not "waste" time
 * College
-- [ ] Get into MIT 💌 (0.1%)
-- [ ] Get into Stanford (0.1%)
+- [ ] Get into MIT/Stanford 💌 (0.1%)
+- [ ] Get into Princeton (0.1%)
 - [ ] Get into John Hopkins (2%)
-- [ ] Get into Berkley (2%)
-- [ ] Get into Caltech (2%)
+- [ ] Get into Berkley, Caltech, CMU (2%)
 - [ ] Get into UT Austin (full ride?)(3%)
 - [ ] Get into good colleges, make parents proud 😅 (0%)
 
