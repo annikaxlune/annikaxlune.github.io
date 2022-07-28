@@ -1,12 +1,5 @@
-## Before HS Ends...
-As high school begins in 19 days, I figured I might as well compile everything I want to do in the remaining 4 years until I leave for college. More will be added as time goes on.
-
-Divided into 5 Sections:
-1. Academics 
-2. Extracurriculars
-3. Competitions
-4. Social
-5. Other
+## Before HS Ends...Pt.1
+As high school begins in 19 days, I figured I might as well compile everything I want to do in the remaining 4 years until I leave for college ~ more on the fun side of high school & different things i want to learn
 
 #### Academics
 * Grades
@@ -17,12 +10,6 @@ Divided into 5 Sections:
 - [ ] Get a 1520 on PSAT 8/9 (20%)
 - [ ] Get a 1600 on SAT (20%)
 - [ ] Get all 5's on AP Exams 💪 (30%)
-* General
-- [ ] Never slack/fall behind in classes (30%)
-- [ ] Pay attention in class, try to finish hw quickly (40%)
-- [ ] Really good/solid stu-dying strategies 
-- [ ] Have fun (60%)
-- [ ] Not "waste" time
 * College
 - [ ] Get into MIT/Stanford 💌 (0.1%)
 - [ ] Get into Princeton (0.1%)
@@ -30,65 +17,6 @@ Divided into 5 Sections:
 - [ ] Get into Berkley, Caltech, CMU (2%)
 - [ ] Get into UT Austin (full ride?)(3%)
 - [ ] Get into good colleges, make parents proud 😅 (0%)
-
-#### Extracurriculars
-* School
-- [ ] Girl Up
-   - [ ] Be a Teen Advisor
-   - [ ] Be part of the Girl Up Houston committee 
-- [ ] Science Olympiad
-   - [ ] Win some medals? no idea how it works
-- [ ] Decathlon (only 9th grade)
-   - [ ] Make the Top 9 Team 😂
-   - [ ] Partake in Octathlon and win some medals 💪
-- [ ] MAO (Math Honor Scociety)
-- [ ] Science National Honor Society
-- [ ] Science Fair
-   - [ ] Partake in ISEF! 
-- [ ] Science Bowl make A Team - Nats. Top 8
-- [ ] Badminton Club
-- [ ] NHD 
-   - [ ] Make Nationals
-   - [ ] Make State
-   - [ ] Make a "club" (to go to regionals)
-  
-* Outside 
-- [ ] Get really good at violin 🎻 !
-- [ ] YLP: make the proposal and project actually work! (9th grade)
-- [ ] Badminton
-   - [ ] Make Elite
-   - [ ] Partake in Comps.
-- [ ] Research 
-   - [ ] Get a paper published 🙂
-
-* Volunteering
-- [ ] Learn to Be Volunteering! 
-   - [ ] Become a Junior Board Member
-- [ ] QV Sci. Bowl Volunteering
-- [ ] CWE Math Masters Volunteering
-- [ ] Houston Methodist Volunteering!
-
-* Summer Camps
-- [ ] Get into RSI  
-- [ ] Get into highly competitive Summer Camps (list)
-
-#### Competitions 
-- [ ] Make JMO / AMO at least 1 time 
-  - [ ] Make AIME for the next 4 years
-  - [ ] Get a perfect/near to perfect score on the AMC 10/12 
-  - [ ] MPFG Invitee (at least 3 times)
-- [ ] Make USABO Camp
-  - [ ] USABO Semis. 
-- [ ] Make IChO
-  - [ ] Make USNCO Camp
-  - [ ] Make USNCO Nationals 
-  - [ ] Make USNCO Locals
-- [ ] Make Physics Camp
-  - [ ] Make USAPHO 
-- [ ] EGOI Team
-  - [ ] Make Platinum
-  - [ ] Make Gold
-  - [ ] Make Silver
 
 #### Social
 - [ ] Attend Homecoming (50%)
@@ -134,7 +62,3 @@ Divided into 5 Sections:
 - [ ] Learn how to cook 17
 
 hopefully, these 4 years ~ fun, eventful, try new things, grow as a person & no regrets.
-
-https://www.youtube.com/watch?v=TQMbvJNRpLE
-
-"take real ambitious projects, break them down to their simplest form and then make marginal improvements along the way to improve my odds of achieving them."
