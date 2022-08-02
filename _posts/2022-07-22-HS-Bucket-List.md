@@ -1,23 +1,6 @@
 ## Before HS Ends...Pt.1
 As high school begins in 19 days, I figured I might as well compile everything I want to do in the remaining 4 years until I leave for college ~ more on the fun side of high school & different things i want to learn
 
-#### Academics
-* Grades
-- [ ] Keep a 95+ in every single class I ever take (85%)
-- [ ] Keep at least a 90+ in every single class I ever take (90%)
-- [ ] Take 2 college courses from a community college (60%)
-* Exams
-- [ ] Get a 1520 on PSAT 8/9 (20%)
-- [ ] Get a 1600 on SAT (20%)
-- [ ] Get all 5's on AP Exams 💪 (30%)
-* College
-- [ ] Get into MIT/Stanford 💌 (0.1%)
-- [ ] Get into Princeton (0.1%)
-- [ ] Get into John Hopkins (2%)
-- [ ] Get into Berkley, Caltech, CMU (2%)
-- [ ] Get into UT Austin (full ride?)(3%)
-- [ ] Get into good colleges, make parents proud 😅 (0%)
-
 #### Social
 - [ ] Attend Homecoming (50%)
 - [ ] Attend at least 2 other Social Events (30%)
