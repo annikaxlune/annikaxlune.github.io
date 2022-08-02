@@ -1,4 +1,4 @@
-## Before HS Ends...Pt.1
+## Before HS Ends
 As high school begins in 19 days, I figured I might as well compile everything I want to do in the remaining 4 years until I leave for college ~ more on the fun side of high school & different things i want to learn
 
 #### Social
