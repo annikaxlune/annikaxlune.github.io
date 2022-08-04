@@ -43,5 +43,6 @@ As high school begins in 19 days, I figured I might as well compile everything I
 - [ ] This Blog ! (make a post daily - weekly)
 - [ ] write a letter to my future self
 - [ ] Learn how to cook 17
+- [ ] Learn Sign Language
 
 hopefully, these 4 years ~ fun, eventful, try new things, grow as a person & no regrets.
