@@ -29,6 +29,7 @@ As high school begins in 19 days, I figured I might as well compile everything I
 - [ ] Spend 10 minutes a day reading news 📰
 - [ ] Go Ice Skating ⛸️
 - [ ] Create a youtube channel w vlogs 😳
+- [ ] Create a spam insta acc
 - [ ] Europe Trip 🛩️
 - [ ] South Korea Trip 🌸
 - [ ] Learn to play the Kalimba 🎵
